@@ -1,0 +1,10 @@
+[project]
+name = "liga-sudoers-aquinovale"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faker>=40.18.0",
+    "psycopg2>=2.9.12",
+]
